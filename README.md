@@ -11,8 +11,8 @@ Olá, eu sou Evaldo Júnior! Sou um entusiasta de programação e estou cursando
 - Prolog 
 - Haskell 
 - Go
-- Framework Spring Boot :gear:
-- Oracle Database :floppy_disk:
+- Framework Spring Boot 
+- Oracle Database
 
 ## Ocupação Atual
 
