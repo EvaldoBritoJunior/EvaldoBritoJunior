@@ -20,7 +20,7 @@ Atualmente sou Desenvolvedor Back-end no Projeto Eureca do Laboratório de Siste
 
 Se você quiser entrar em contato comigo ou colaborar em algum projeto, fique à vontade para me encontrar nas seguintes redes:
 
-- [LinkedIn](https://br.linkedin.com/in/franciscoa-dantas)
+- [LinkedIn](https://www.linkedin.com/in/evaldo-alves-de-brito-junior-a9647430a)
 - [Email](mailto:evaldo.brito.junior@ccc.ufcg.edu.br)
 
 ## Obrigado por visitar!
