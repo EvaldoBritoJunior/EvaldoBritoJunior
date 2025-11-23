@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Olá, eu sou Evaldo Júnior! Sou um entusiasta de programação e estou cursando Bacharelado em Ciência da Computação na UFCG-PB. 
+Olá, eu sou Evaldo Júnior! Sou um entusiasta de programação com Bacharelado em Ciência da Computação pela UFCG-PB. 
 
 ## Tecnologias
 
@@ -13,10 +13,9 @@ Olá, eu sou Evaldo Júnior! Sou um entusiasta de programação e estou cursando
 - Go
 - Framework Spring Boot 
 - Oracle Database
+- PostgreSQL
 
-## Ocupação Atual
-
-Atualmente sou Desenvolvedor Back-end no Projeto Eureca do Laboratório de Sistemas Distribuídos (LSD).
+## Contato
 
 Se você quiser entrar em contato comigo ou colaborar em algum projeto, fique à vontade para me encontrar nas seguintes redes:
 
